@@ -1,0 +1,12 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2026-02-12T16:03:12.001+05:30  INFO 16896 --- [EnterpriseWorkflowTask] [           main] c.h.e.EnterpriseWorkflowTaskApplication  : Starting EnterpriseWorkflowTaskApplication v0.0.1-SNAPSHOT using Java 17.0.16 with PID 16896 (C:\Users\htcuser_1\Documents\ewt-fs\backend\target\EnterpriseWorkflowTask-0.0.1-SNAPSHOT.jar started by htcuser_1 in C:\Users\htcuser_1\Documents\ewt-fs\backend)
+2026-02-12T16:03:12.015+05:30 DEBUG 16896 --- [EnterpriseWorkflowTask] [           main] c.h.e.EnterpriseWorkflowTaskApplication  : Running with Spring Boot v3.2.5, Spring v6.1.6
+2026-02-12T16:03:12.027+05:30  INFO 16896 --- [EnterpriseWorkflowTask] [           main] c.h.e.EnterpriseWorkflowTaskApplication  : No active profile set, falling back to 1 default profile: "default"
